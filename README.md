@@ -33,9 +33,7 @@ bilateral_filter_library/
 ├── src/
 │   └── bilateral_filter.cpp
 ├── apps/
-│   └── bilateral_filter_cli.cpp
-└── examples/
-    └── run_example.txt
+   └── bilateral_filter_cli.cpp
 ```
 
 ## Сборка
