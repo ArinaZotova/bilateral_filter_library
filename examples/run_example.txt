@@ -1,3 +1,0 @@
-Example command:
-
-./bilateral_filter_app input.png output.png 10 100 10
